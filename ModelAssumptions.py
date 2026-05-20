@@ -5,7 +5,7 @@ inflation=0.038 #frac, average U.S. inflation rate from 1960 to 2021
 EP = 75 # Electricity Price
 Cl2P = 150 # Chlorine Price
 
-prod_tpd=100 # tonne per day or ~40,000 tpy
+prod_tpd=100 # tonne per day or ~350,000 tpy at 95% capacity factor
 employees = 44 # Employees
 
 salary = 50000 # Assumed salary US Chemical Plant Operator
